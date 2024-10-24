@@ -4,4 +4,4 @@ dict = {
     "c": 3,
 }
 
-print(dict[1])
+print(dict["a"])
