@@ -30,6 +30,3 @@ resources = {
     "coffee": 100,
 }
 
-
-
-
